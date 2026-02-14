@@ -1,11 +1,11 @@
-📌 Contact Form Project
-A simple full-stack contact form built using HTML, CSS, JavaScript, and PHP.
-This project allows users to submit their name, email, and message, which is then saved to a text file on the server.
-🚀 Features
-Clean and responsive UI
-Form validation using HTML
-AJAX-based form submission (no page reload)
-PHP backend processing
+📌 Contact Form Project<br>
+A simple full-stack contact form built using HTML, CSS, JavaScript, and PHP.<br>
+This project allows users to submit their name, email, and message, which is then saved to a text file on the server.<br>
+🚀 Features<br>
+Clean and responsive UI<br>
+Form validation using HTML<br>
+AJAX-based form submission (no page reload)<br>
+PHP backend processing<br>
 Data stored in form_data.txt
 🛠 Technologies Used
 HTML5
